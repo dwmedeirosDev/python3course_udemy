@@ -16,3 +16,7 @@ print("Nome:", nome_completo,
       "Idade:", idade,
       "É maior de idade? :", verificacao)
 
+print (10 % 5 == 1)
+print (10 % 5 == 0)
+
+print((1+1) ** (5+5))
